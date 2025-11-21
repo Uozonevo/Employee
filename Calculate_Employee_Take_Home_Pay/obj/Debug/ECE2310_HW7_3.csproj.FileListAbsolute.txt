@@ -1,0 +1,10 @@
+C:\Users\udoka\source\repos\ECE2310_HW7_3\bin\Debug\ECE2310_HW7_3.exe.config
+C:\Users\udoka\source\repos\ECE2310_HW7_3\bin\Debug\ECE2310_HW7_3.exe
+C:\Users\udoka\source\repos\ECE2310_HW7_3\bin\Debug\ECE2310_HW7_3.pdb
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.csproj.AssemblyReference.cache
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.Form1.resources
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.Properties.Resources.resources
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.csproj.GenerateResource.cache
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.csproj.CoreCompileInputs.cache
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.exe
+C:\Users\udoka\source\repos\ECE2310_HW7_3\obj\Debug\ECE2310_HW7_3.pdb
