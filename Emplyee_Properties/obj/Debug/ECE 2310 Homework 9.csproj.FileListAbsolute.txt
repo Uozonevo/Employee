@@ -1,0 +1,7 @@
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\bin\Debug\ECE 2310 Homework 9.exe.config
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\bin\Debug\ECE 2310 Homework 9.exe
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\bin\Debug\ECE 2310 Homework 9.pdb
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\obj\Debug\ECE 2310 Homework 9.csproj.AssemblyReference.cache
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\obj\Debug\ECE 2310 Homework 9.csproj.CoreCompileInputs.cache
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\obj\Debug\ECE 2310 Homework 9.exe
+C:\Users\udoka\source\repos\ECE 2310 Homework 9\obj\Debug\ECE 2310 Homework 9.pdb
