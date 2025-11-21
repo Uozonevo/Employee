@@ -1,0 +1,7 @@
+C:\Users\udoka\source\repos\ECE2310_HW_8\bin\Debug\ECE2310_HW_8.exe.config
+C:\Users\udoka\source\repos\ECE2310_HW_8\bin\Debug\ECE2310_HW_8.exe
+C:\Users\udoka\source\repos\ECE2310_HW_8\bin\Debug\ECE2310_HW_8.pdb
+C:\Users\udoka\source\repos\ECE2310_HW_8\obj\Debug\ECE2310_HW_8.csproj.AssemblyReference.cache
+C:\Users\udoka\source\repos\ECE2310_HW_8\obj\Debug\ECE2310_HW_8.csproj.CoreCompileInputs.cache
+C:\Users\udoka\source\repos\ECE2310_HW_8\obj\Debug\ECE2310_HW_8.exe
+C:\Users\udoka\source\repos\ECE2310_HW_8\obj\Debug\ECE2310_HW_8.pdb
